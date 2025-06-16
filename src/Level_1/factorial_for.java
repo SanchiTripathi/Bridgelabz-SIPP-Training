@@ -14,8 +14,9 @@ public class factorial_for {
 		for(int i=1;i<=n;i++) {
 			factorial *= i;
 		}
-		System.out.println("The factorial is "+factorial);
+		System.out.println("The factorial is: "+factorial);
 
 	}
 
 }
+ 
